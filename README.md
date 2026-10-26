@@ -37,7 +37,7 @@ make
 # flash app and upload website data:
 make clean && make flash 
 ```
-the settings data will be erased every time a new flash happens.
+Note the settings data will be erased every time a new flash happens.
 
 #### Debug
 ```bash
